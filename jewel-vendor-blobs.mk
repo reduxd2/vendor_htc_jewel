@@ -23,13 +23,21 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/jewel/proprietary/bin/akmd:system/bin/akmd \
+  vendor/htc/jewel/proprietary/bin/awb_camera:system/bin/awb_camera \
+  vendor/htc/jewel/proprietary/bin/bma150_usr:system/bin/bma150_usr \
+  vendor/htc/jewel/proprietary/bin/cam_ins_spmo:system/bin/cam_ins_spmo \
   vendor/htc/jewel/proprietary/bin/charging:system/bin/charging \
   vendor/htc/jewel/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+  vendor/htc/jewel/proprietary/bin/hdmid:system/bin/hdmid \
+  vendor/htc/jewel/proprietary/bin/htc_ebdlogd:system/bin/htc_ebdlogd \
+  vendor/htc/jewel/proprietary/bin/ip:system/bin/ip \
+  vendor/htc/jewel/proprietary/bin/logcat2:system/bin/logcat2 \
   vendor/htc/jewel/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
   vendor/htc/jewel/proprietary/bin/mpdecision:system/bin/mpdecision \
   vendor/htc/jewel/proprietary/bin/netmgrd:system/bin/netmgrd \
   vendor/htc/jewel/proprietary/bin/netsharing:system/bin/netsharing \
   vendor/htc/jewel/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+  vendor/htc/jewel/proprietary/bin/sound8960:system/bin/sound8960 \
   vendor/htc/jewel/proprietary/bin/qmuxd:system/bin/qmuxd \
   vendor/htc/jewel/proprietary/bin/thermald:system/bin/thermald \
   vendor/htc/jewel/proprietary/bin/time_daemon:system/bin/time_daemon \
