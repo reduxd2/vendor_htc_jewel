@@ -23,11 +23,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/jewel/proprietary/bin/akmd:system/bin/akmd \
-  vendor/htc/jewel/proprietary/bin/cand:system/bin/cand \
   vendor/htc/jewel/proprietary/bin/charging:system/bin/charging \
-  vendor/htc/jewel/proprietary/bin/ewtzmud:system/bin/ewtzmud \
   vendor/htc/jewel/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-  vendor/htc/jewel/proprietary/bin/mm-abl-daemon:system/bin/mm-abl-daemon \
   vendor/htc/jewel/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
   vendor/htc/jewel/proprietary/bin/mpdecision:system/bin/mpdecision \
   vendor/htc/jewel/proprietary/bin/netmgrd:system/bin/netmgrd \
