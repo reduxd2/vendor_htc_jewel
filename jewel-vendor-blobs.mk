@@ -87,6 +87,8 @@ PRODUCT_COPY_FILES += \
   vendor/htc/jewel/proprietary/lib/libmpl.so:system/lib/libmpl.so \
   vendor/htc/jewel/proprietary/lib/libmpl_jni.so:system/lib/libmpl_jni.so \
   vendor/htc/jewel/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
+  vendor/htc/jewel/proprietary/lib/libmllite.so:system/lib/libmllite.so \
+  vendor/htc/jewel/proprietary/lib/libMLTransition.so:system/lib/libMLTransition.so \
   vendor/htc/jewel/proprietary/lib/libdiag.so:system/lib/libdiag.so \
   vendor/htc/jewel/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
   vendor/htc/jewel/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
