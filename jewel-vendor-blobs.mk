@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/jewel/proprietary/lib/libv8.so:obj/lib/libv8.so
 
 PRODUCT_COPY_FILES += \
+  vendor/htc/jewel/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
   vendor/htc/jewel/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc/jewel/proprietary/bin/akmd:system/bin/akmd \
   vendor/htc/jewel/proprietary/bin/awb_camera:system/bin/awb_camera \
